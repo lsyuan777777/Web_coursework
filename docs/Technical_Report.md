@@ -281,8 +281,16 @@ This project demonstrates proficiency in:
 
 The Books API provides a solid foundation for book management and can be easily extended with additional features such as user authentication, advanced recommendations, and caching.
 
+## 12. Repository
+
+**GitHub**: https://github.com/lsyuan777777/Web_coursework
+
 ---
 
-**Author**: Student Name  
-**Module**: XJCO3011 - Web Services and Web Data  
+**Author**: Liu Siyuan
+
+**Student ID**: 2407123456
+
+**Module**: XJCO3011 - Web Services and Web Data
+
 **Date**: April 2026
